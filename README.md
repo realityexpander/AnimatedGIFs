@@ -1,2 +1,3 @@
 # AnimatedGIFs
-API >= 28 to show how to use Animated GIF's
+
+Android app to show how to use Animated GIF's on API >= 28 
